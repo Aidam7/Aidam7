@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Computer hardware and Cybersecurity**
 
-- 📫 How to reach me **Aidam#3819**
+- 📫 Reach me on Discord
 
 - ⚡ Fun fact **I like cats 🐈**
 
