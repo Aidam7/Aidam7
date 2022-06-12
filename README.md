@@ -5,6 +5,8 @@
 
 - 💬 Ask me about **Computer hardware and Cybersecurity**
 
+- 🔭 I’m currently working on [MathSnake](https://github.com/Aidam7/MathSnake)
+
 - 📫 Reach me on Discord
 
 - ⚡ Fun fact **I like cats 🐈**
