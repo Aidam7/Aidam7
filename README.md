@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently learning Python 🐍
 
-- 📫 Reach me on Discord
-
 - ⚡ Fun fact **I like cats 🐈**
 
 <h3 align="left">Connect with me:</h3>
