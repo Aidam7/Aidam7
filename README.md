@@ -1,11 +1,13 @@
 <h1 align="center">Hello World 👋, I'm Adam</h1>
-<h3 align="center">A programming student from Czechia</h3>
+<h3 align="center">A programming student from Czechia 🇨🇿</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aidam7&label=Profile%20views&color=00adb5&style=flat" alt="aidam7" /> </p>
 
+- 🔧 Currently working as a **Computer Technician**
+
 - 💬 Ask me about **Computer hardware and Cybersecurity**
 
-- 🔭 I’m currently learning Python 🐍
+- 🔭 I’m currently learning **Python** and **PHP** 🐍 🐘
 
 - ⚡ Fun fact **I like cats 🐈**
 
