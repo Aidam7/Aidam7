@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I like cats 🐈**
 
-- 
+- 💡 Most of my repos are private
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
